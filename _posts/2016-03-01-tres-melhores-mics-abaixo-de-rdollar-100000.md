@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 3 melhores mics condesers que cabem no seu bolso.
-datePublished: '2016-03-02T19:59:16.110Z'
-dateModified: '2016-03-02T19:58:19.414Z'
+datePublished: '2016-03-02T20:00:58.660Z'
+dateModified: '2016-03-02T19:59:25.428Z'
 title: 'Três melhores mics abaixo de R$ 1.000,00'
 author: []
 sourcePath: _posts/2016-03-01-tres-melhores-mics-abaixo-de-rdollar-100000.md
